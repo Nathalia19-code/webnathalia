@@ -1,0 +1,128 @@
+body{
+  font-family: 'Dancing Script', cursive;
+  margin: 0;
+  padding: 0px;
+  background-color: #c5f0aebe;
+  
+}
+
+header {
+    background-color: rgb(245, 238, 219);
+    color:#293523;
+    padding: 20px;
+    text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+
+  /*Navegador de menu */
+  .navr {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(245, 238, 219);
+    
+  }
+  .navr a{ 
+    text-indent: 9mm;
+  }
+  .navr a:hover {
+    background-color:rgba(146, 232, 134, 0.827);
+    
+  }
+ 
+/*Lista desordenada*/
+  .ul{
+    list-style-type:square;
+  }
+  
+  #Recetas {
+    padding: 20px;
+  }
+
+  .receta {
+    background-color: rgb(245, 238, 219);
+    border: 1px solid #ddd;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+   
+  }
+
+  .receta h3 {
+    color: #1e9fd2;
+  }
+
+  .receta-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+   
+  }
+  .receta-img img {
+    width: 100%;
+    transition: filter 0.5s ease; 
+}
+
+.receta-img:hover  {
+    filter: brightness(0.7); 
+}
+body{
+  font-family: 'Dancing Script', cursive;
+  margin: 0;
+  padding: 0px;
+  background-color: #c5f0aebe;
+  
+}
+
+header {
+    background-color: rgb(245, 238, 219);
+    color:#293523;
+    padding: 20px;
+    text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+
+  /*Navegador de menu */
+  .navr {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(245, 238, 219);
+    
+  }
+  .navr a{ 
+    text-indent: 9mm;
+  }
+  .navr a:hover {
+    background-color:rgba(146, 232, 134, 0.827);
+    
+  }
+ 
+/*Lista desordenada*/
+  .ul{
+    list-style-type:square;
+  }
+  
+  #Recetas {
+    padding: 20px;
+  }
+
+  .receta {
+    background-color: rgb(245, 238, 219);
+    border: 1px solid #ddd;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+   
+  }
+
+  .receta h3 {
+    color: #1e9fd2;
+  }
+
+  .receta-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+   
+  }
